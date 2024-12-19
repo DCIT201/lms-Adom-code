@@ -1,4 +1,3 @@
-PATRON CLASS
 
 package org.example;
 
