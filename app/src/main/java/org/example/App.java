@@ -4,11 +4,7 @@
 package org.example;
 
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+    Book b001 = new Book("desert rivers","Ama Wilson",2023);
+    System.out.println(b001.getTitle())
     }
 }
